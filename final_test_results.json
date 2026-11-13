@@ -1,0 +1,13 @@
+{
+  "test_results": {
+    "correct": 173,
+    "total": 200,
+    "accuracy": 0.865
+  },
+  "recovery": {
+    "method": "recover_saved_answers_and_fill_missing",
+    "source_run": "results\\formula-paper-subset-deepseek\\baseline\\trial-01\\attempt-2a72538956\\ace_run_20261113_105528_formula_offline",
+    "original_answers": 200,
+    "recovery_items": []
+  }
+}

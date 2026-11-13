@@ -1,0 +1,2 @@
+condition,trial,max_reflection_rounds,test_size,base_llm_correct,empty_playbook_correct,final_correct,base_llm_accuracy_pct,empty_playbook_accuracy_pct,final_accuracy_pct,accuracy_gain_pp,ace_minus_base_llm_pp,validation_accuracy_pct
+baseline,1,5,200,125,142,173,62.5,71.0,86.5,15.5,24.0,98.0

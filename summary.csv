@@ -1,0 +1,6 @@
+comparison,metric,n,mean,sample_variance
+baseline,empty_playbook_accuracy_pct,1,71.0,
+baseline,final_accuracy_pct,1,86.5,
+baseline,accuracy_gain_pp,1,15.5,
+baseline,base_llm_accuracy_pct,1,62.5,
+baseline,ace_minus_base_llm_pp,1,24.0,
